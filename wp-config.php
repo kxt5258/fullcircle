@@ -80,7 +80,7 @@ $table_prefix  = 'kdt_';
 define('WP_DEBUG', false);
 
 /* That's all, stop editing! Happy blogging. */
-define('AUTOSAVE_INTERVAL', 300);
+define('AUTOSAVE_INTERVAL', 350);
 define('WP_POST_REVISIONS', false);
 
 /** Absolute path to the WordPress directory. */
