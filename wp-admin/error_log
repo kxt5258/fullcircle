@@ -1,0 +1,1 @@
+[26-Jan-2016 11:00:20 UTC] WordPress database error Duplicate column name 'sched_network_date' for query ALTER TABLE `b2s_filter` ADD `sched_network_date` DATETIME NOT NULL DEFAULT '0000-00-00 00:00:00' AFTER `post_id`; made by activate_plugin, do_action('activate_blog2social/index.php'), call_user_func_array, b2sActivate
